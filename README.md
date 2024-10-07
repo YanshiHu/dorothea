@@ -23,7 +23,7 @@ This is an R package for storing the regulons. To infer TF
 activities, please check out
 [decoupleR](https://doi.org/10.1093/bioadv/vbac016), available in
 [R](https://saezlab.github.io/decoupleR/) or
-[python](https://github.com/saezlab/decoupler-py).
+[Python](https://github.com/saezlab/decoupler-py).
 
 ## Installation
 
